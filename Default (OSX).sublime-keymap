@@ -1,0 +1,8 @@
+[
+	{ 
+		"keys": ["ctrl+."], "command": "defjump", "args": {"forward": true} 
+	},
+	{ 
+		"keys": ["ctrl+,"], "command": "defjump", "args": {"forward": false}  
+	}
+]
